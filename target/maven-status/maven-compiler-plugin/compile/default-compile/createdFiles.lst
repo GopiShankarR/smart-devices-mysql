@@ -7,8 +7,10 @@ com\example\TrendingServlet.class
 com\example\FirstServlet.class
 com\example\ProductInfo.class
 com\example\SalesData.class
+com\example\Order.class
 com\example\Product.class
 com\example\LoginServlet.class
+com\example\CustomerOrdersServlet.class
 com\example\Accessory.class
 com\example\UserInfo.class
 com\example\ProductInventory.class
@@ -21,6 +23,7 @@ com\example\InventoryReportServlet$InventoryReport.class
 com\example\ProductReviewServlet.class
 AjaxUtility.class
 com\example\MongoDBDataStoreUtilities.class
+com\example\CustomerServiceServlet.class
 com\example\DailySalesData.class
 com\example\SalesReportServlet.class
 com\example\CheckoutServlet.class

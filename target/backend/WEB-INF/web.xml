@@ -108,8 +108,24 @@
         <servlet-name>InventoryReportServlet</servlet-name>
         <url-pattern>/inventory-report</url-pattern>
     </servlet-mapping>
+    <servlet>
+        <servlet-name>CustomerServiceServlet</servlet-name>
+        <servlet-class>com.example.CustomerServiceServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CustomerServiceServlet</servlet-name>
+        <url-pattern>/customer-service</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>CustomerOrdersServlet</servlet-name>
+        <servlet-class>com.example.CustomerOrdersServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CustomerOrdersServlet</servlet-name>
+        <url-pattern>/customer-orders</url-pattern>
+    </servlet-mapping>
     <context-param>
         <param-name>ProductCatalogXMLPath</param-name>
-        <param-value>C:\Users\balup\enterprise-web-applications-projects\Assignment 3\backend\src\main\resources\ProductCatalog.xml</param-value>
+        <param-value>C:\Users\balup\enterprise-web-applications-projects\Assignment 4\backend\src\main\resources\ProductCatalog.xml</param-value>
     </context-param>
 </web-app>

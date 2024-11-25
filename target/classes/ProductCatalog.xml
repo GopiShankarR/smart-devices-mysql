@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -13,7 +29,23 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -26,7 +58,23 @@
         
         
         <product_id>1</product_id>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -39,7 +87,7 @@
         
         
         <product_name>Philips Hue White and Color Ambiance</product_name>
-                                                                                                        
+                                                                                                                                                                                                                                        
         
         
         
@@ -51,8 +99,6 @@
         
         
         
-        <price>199.90</price>
-                                                                                                        
         
         
         
@@ -64,8 +110,58 @@
         
         
         
-        <description>Smart light bulbs with millions of colors, voice control, and app control.</description>
-                                                                                                        
+        
+        
+        
+        
+        
+        <price>199.9</price>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Smart light bulbs with millions of colors, voice control, and compatibility with Alexa, Google Assistant, and Apple HomeKits.</description>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -78,7 +174,7 @@
         
         
         <manufacturer>Philips Hue</manufacturer>
-                                                                                                        
+                                                                                                                                                                                                                                        
         
         
         
@@ -90,8 +186,40 @@
         
         
         
-        <imageUrl>https://www.fotoagent.dk/images/wAaHs2BfJ4xT6Y_kolLxJ0jb_f_SzskpeS2W.jpeg</imageUrl>
-                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://www.fotoagent.dk/images/w/ahAs2Bfj4xT6V_koU0t9zA/s/11870/138/8719514288157_2.jpg?v=121862940</imageUrl>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -104,7 +232,23 @@
         
         
         <category>Smart Lights</category>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -117,7 +261,23 @@
         
         
         <product_quantity>38</product_quantity>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -130,7 +290,23 @@
         
         
         <on_sale>true</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -143,7 +319,23 @@
         
         
         <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -156,7 +348,23 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -169,7 +377,23 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -182,7 +406,23 @@
         
         
         <product_id>3</product_id>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -195,7 +435,23 @@
         
         
         <product_name>Ring Smart Lights</product_name>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -208,7 +464,23 @@
         
         
         <price>79.90</price>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -221,7 +493,23 @@
         
         
         <description>Ring Smart Light bulb delivers customizable, energy-efficient lighting.</description>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -234,7 +522,23 @@
         
         
         <manufacturer>Ring</manufacturer>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -247,7 +551,23 @@
         
         
         <imageUrl>https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/1012/h.jpg</imageUrl>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -260,7 +580,23 @@
         
         
         <category>Smart Lights</category>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -273,7 +609,23 @@
         
         
         <product_quantity>22</product_quantity>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -286,7 +638,23 @@
         
         
         <on_sale>false</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -299,7 +667,23 @@
         
         
         <manufacturer_rebate>true</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -312,7 +696,23 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -325,7 +725,23 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -338,7 +754,23 @@
         
         
         <product_id>4</product_id>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -351,7 +783,23 @@
         
         
         <product_name>Apple Homepod</product_name>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -364,7 +812,23 @@
         
         
         <price>100.00</price>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -377,7 +841,23 @@
         
         
         <description>A high-fidelity smart speaker with Siri integration for seamless smart home control.</description>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -390,7 +870,23 @@
         
         
         <manufacturer>Apple</manufacturer>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -403,7 +899,23 @@
         
         
         <imageUrl>https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/apple_mqj73ll_a_homepod_2nd_generation_1674141673_1746861.jpg</imageUrl>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -416,7 +928,23 @@
         
         
         <category>Speakers</category>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -429,7 +957,23 @@
         
         
         <product_quantity>73</product_quantity>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -442,7 +986,23 @@
         
         
         <on_sale>true</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -455,7 +1015,23 @@
         
         
         <manufacturer_rebate>true</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -468,7 +1044,23 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -481,7 +1073,23 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -494,7 +1102,23 @@
         
         
         <product_id>5</product_id>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -507,7 +1131,23 @@
         
         
         <product_name>Nest Thermostat</product_name>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -520,7 +1160,23 @@
         
         
         <price>149.99</price>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -533,7 +1189,23 @@
         
         
         <description>A smart thermostat that adjusts the temperature automatically based on your schedule.</description>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -546,7 +1218,23 @@
         
         
         <manufacturer>Nest</manufacturer>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -559,7 +1247,23 @@
         
         
         <imageUrl>https://lh3.googleusercontent.com/qoUGkwSgVxzhbUYk-Vbb2mDQk2c_Tw-H0g2cMVZCKAJnI3ul7K7cLXoUCB4EAbef_hvC8JLer9hVpng7U61BYOnflnrEE4i1X9k=s1400-w1400-e365-rw-v1</imageUrl>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -572,7 +1276,23 @@
         
         
         <category>Climate Control</category>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -585,7 +1305,23 @@
         
         
         <product_quantity>53</product_quantity>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -598,7 +1334,23 @@
         
         
         <on_sale>false</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -611,7 +1363,23 @@
         
         
         <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -624,7 +1392,23 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -637,7 +1421,23 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -650,7 +1450,23 @@
         
         
         <product_id>6</product_id>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -663,7 +1479,23 @@
         
         
         <product_name>LIFX Color A19</product_name>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -676,7 +1508,23 @@
         
         
         <price>64.99</price>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -689,7 +1537,23 @@
         
         
         <description>Smart light bulb with 16 million colors, Wi-Fi connection, and voice control.</description>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -702,7 +1566,23 @@
         
         
         <manufacturer>LIFX</manufacturer>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -715,7 +1595,23 @@
         
         
         <imageUrl>https://i5.walmartimages.com/seo/LIFX-Smart-LED.jpg</imageUrl>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -728,7 +1624,7 @@
         
         
         <category>Smart Lights</category>
-                                                                                                        
+                                                                                                                                                                                                                                        
         
         
         
@@ -740,1243 +1636,11 @@
         
         
         
-        <product_quantity>24</product_quantity>
-                                                                                                        
         
         
         
         
         
-        
-        
-        
-        
-        
-        
-        <on_sale>false</on_sale>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </product>
-                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <product>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_id>8</product_id>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_name>Ecobee SmartThermostat</product_name>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <price>249.00</price>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <description>Smart thermostat with voice control, energy-saving features, and room sensors.</description>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer>Ecobee</manufacturer>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <imageUrl>https://www.blackwiredesigns.com/wp-content/uploads/ecobee3.jpg</imageUrl>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <category>Climate Control</category>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_quantity>75</product_quantity>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <on_sale>true</on_sale>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </product>
-                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <product>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_id>10</product_id>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_name>Nanoleaf Shapes</product_name>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <price>199.99</price>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <description>Modular smart lighting system with customizable panels that can sync with music.</description>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer>Nanoleaf</manufacturer>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <imageUrl>https://us.nanoleaf.me/assets/nanoleaf-shapes.jpg</imageUrl>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <category>Smart Lights</category>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_quantity>62</product_quantity>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <on_sale>true</on_sale>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </product>
-                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <product>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_id>12</product_id>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_name>Honeywell Home T9</product_name>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <price>199.99</price>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <description>Wi-Fi smart thermostat with room sensors, comfort control, and voice compatibility.</description>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer>Honeywell</manufacturer>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <imageUrl>https://cdn.vox-cdn.com/thumbor/honeywell_t9.jpg</imageUrl>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <category>Climate Control</category>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_quantity>13</product_quantity>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <on_sale>false</on_sale>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </product>
-                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <product>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_id>13</product_id>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_name>JBL Charge 5</product_name>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <price>149.99</price>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <description>Portable Bluetooth speaker with powerful sound, long battery life, and waterproof design.</description>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer>JBL</manufacturer>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <imageUrl>https://m.media-amazon.com/images/I/61qMO3TS2RL._AC_UF894,1000_QL80_.jpg</imageUrl>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <category>Speakers</category>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_quantity>16</product_quantity>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <on_sale>false</on_sale>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer_rebate>true</manufacturer_rebate>
-                                                                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </product>
-                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <product>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_id>14</product_id>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_name>Sengled Smart LED</product_name>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <price>45.99</price>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <description>Smart LED bulbs with 16 million colors, voice control, and app control.</description>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer>Sengled</manufacturer>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <imageUrl>https://m.media-amazon.com/images/I/71Ju+OBNspS._AC_SX679_.jpg</imageUrl>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <category>Smart Lights</category>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_quantity>22</product_quantity>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <on_sale>false</on_sale>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </product>
-                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <product>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_id>17</product_id>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_name>Amazon Echo Studio</product_name>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <price>199.99</price>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <description>Premium smart speaker with 3D audio, Dolby Atmos, and voice assistant Alexa.</description>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer>Amazon</manufacturer>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <imageUrl>https://m.media-amazon.com/images/I/91OyhfZMbyL._AC_UF1000,1000_QL80_.jpg</imageUrl>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <category>Speakers</category>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_quantity>92</product_quantity>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <on_sale>true</on_sale>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </product>
-                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <product>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_id>18</product_id>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_name>Ring Video Doorbell Pro 2</product_name>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <price>249.99</price>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <description>Features a high-definition video camera, two-way audio, and advanced motion detection.</description>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer>Ring</manufacturer>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <imageUrl>https://images.ctfassets.net/a3peezndovsu/variant-31961428492377/e8d3f08c98ee484eef46c383b85cb785/variant-31961428492377.jpg</imageUrl>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <category>Smart Doorbells</category>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_quantity>51</product_quantity>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <on_sale>false</on_sale>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </product>
-                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <product>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_id>19</product_id>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <product_name>Nest Hello</product_name>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <price>229.00</price>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <description>Smart doorbell with high-definition video, two-way audio, and night vision.</description>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <manufacturer>Nest</manufacturer>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <imageUrl>https://cdn.thewirecutter.com/wp-content/uploads/nest-hello.jpg</imageUrl>
-                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <category>Smart Doorbells</category>
-                                                                                                        
         
         
         
@@ -1989,7 +1653,23 @@
         
         
         <product_quantity>23</product_quantity>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2002,7 +1682,23 @@
         
         
         <on_sale>false</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2015,7 +1711,23 @@
         
         
         <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2028,7 +1740,23 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2041,7 +1769,7 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
         
         
         
@@ -2053,8 +1781,6 @@
         
         
         
-        <product_id>20</product_id>
-                                                                                                        
         
         
         
@@ -2066,8 +1792,406 @@
         
         
         
-        <product_name>Arlo Essential Video Doorbell</product_name>
-                                                                                                        
+        
+        
+        
+        
+        
+        <product_id>8</product_id>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_name>Ecobee SmartThermostat</product_name>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>249.00</price>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Smart thermostat with voice control, energy-saving features, and room sensors.</description>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer>Ecobee</manufacturer>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://www.blackwiredesigns.com/wp-content/uploads/ecobee3.jpg</imageUrl>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>Climate Control</category>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_quantity>75</product_quantity>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <on_sale>true</on_sale>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer_rebate>false</manufacturer_rebate>
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </product>
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <product>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_id>10</product_id>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_name>Nanoleaf Shapes</product_name>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2080,7 +2204,7 @@
         
         
         <price>199.99</price>
-                                                                                                        
+                                                                                                                                                                                                                                        
         
         
         
@@ -2092,8 +2216,6 @@
         
         
         
-        <description>Features 1536p HD video, two-way audio, and a built-in siren for enhanced security.</description>
-                                                                                                        
         
         
         
@@ -2105,8 +2227,13 @@
         
         
         
-        <manufacturer>Arlo</manufacturer>
-                                                                                                        
+        
+        
+        
+        
+        
+        <description>Modular smart lighting system with customizable panels that can sync with music.</description>
+                                                                                                                                                                                                                                        
         
         
         
@@ -2118,8 +2245,6 @@
         
         
         
-        <imageUrl>https://target.scene7.com/is/image/Target/GUEST_2a5cf706-e559-43ec-a731-156371ef0297?wid=488&amp;hei=488&amp;fmt=pjpeg</imageUrl>
-                                                                                                        
         
         
         
@@ -2131,8 +2256,13 @@
         
         
         
-        <category>Smart Doorbells</category>
-                                                                                                        
+        
+        
+        
+        
+        
+        <manufacturer>Nanoleaf</manufacturer>
+                                                                                                                                                                                                                                        
         
         
         
@@ -2144,8 +2274,98 @@
         
         
         
-        <product_quantity>0</product_quantity>
-                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://us.nanoleaf.me/assets/nanoleaf-shapes.jpg</imageUrl>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>Smart Lights</category>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_quantity>62</product_quantity>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2158,7 +2378,23 @@
         
         
         <on_sale>true</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2171,7 +2407,23 @@
         
         
         <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2184,7 +2436,23 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2197,7 +2465,7 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
         
         
         
@@ -2209,8 +2477,6 @@
         
         
         
-        <product_id>21</product_id>
-                                                                                                        
         
         
         
@@ -2222,21 +2488,19 @@
         
         
         
-        <product_name>Eufy Security Video Doorbell</product_name>
-                                                                                                        
         
         
         
         
         
+        <product_id>12</product_id>
+                                                                                                                                                                                                                                        
         
         
         
         
         
         
-        <price>159.99</price>
-                                                                                                        
         
         
         
@@ -2248,8 +2512,6 @@
         
         
         
-        <description>Offers 2K video resolution, two-way audio, and local storage with no monthly fees.</description>
-                                                                                                        
         
         
         
@@ -2260,9 +2522,9 @@
         
         
         
+        <product_name>Honeywell Home T9</product_name>
+                                                                                                                                                                                                                                        
         
-        <manufacturer>Eufy</manufacturer>
-                                                                                                        
         
         
         
@@ -2274,8 +2536,6 @@
         
         
         
-        <imageUrl>https://cdn.shopify.com/s/files/1/0553/4492/2789/files/videodoorbell1500x1500_1_1c401aad-dae7-4495-98a9-d79d82848f65.png?v=1702974002</imageUrl>
-                                                                                                        
         
         
         
@@ -2287,12 +2547,12 @@
         
         
         
-        <category>Smart Doorbells</category>
-                                                                                                        
         
         
         
         
+        <price>199.99</price>
+                                                                                                                                                                                                                                        
         
         
         
@@ -2300,8 +2560,6 @@
         
         
         
-        <product_quantity>56</product_quantity>
-                                                                                                        
         
         
         
@@ -2313,8 +2571,178 @@
         
         
         
-        <on_sale>true</on_sale>
-                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Wi-Fi smart thermostat with room sensors, comfort control, and voice compatibility.</description>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer>Honeywell</manufacturer>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://cdn.vox-cdn.com/thumbor/honeywell_t9.jpg</imageUrl>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>Climate Control</category>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_quantity>13</product_quantity>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <on_sale>false</on_sale>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2327,7 +2755,23 @@
         
         
         <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2340,7 +2784,2443 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <product>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_id>13</product_id>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_name>JBL Charge 5</product_name>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>149.99</price>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Portable Bluetooth speaker with powerful sound, long battery life, and waterproof design.</description>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer>JBL</manufacturer>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://m.media-amazon.com/images/I/61qMO3TS2RL._AC_UF894,1000_QL80_.jpg</imageUrl>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>Speakers</category>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_quantity>16</product_quantity>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <on_sale>false</on_sale>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer_rebate>true</manufacturer_rebate>
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </product>
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <product>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_id>14</product_id>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_name>Sengled Smart LED</product_name>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>45.99</price>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Smart LED bulbs with 16 million colors, voice control, and app control.</description>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer>Sengled</manufacturer>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://m.media-amazon.com/images/I/71Ju+OBNspS._AC_SX679_.jpg</imageUrl>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>Smart Lights</category>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_quantity>22</product_quantity>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <on_sale>false</on_sale>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer_rebate>false</manufacturer_rebate>
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </product>
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <product>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_id>17</product_id>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_name>Amazon Echo Studio</product_name>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>199.99</price>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Premium smart speaker with 3D audio, Dolby Atmos, and voice assistant Alexa.</description>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer>Amazon</manufacturer>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://m.media-amazon.com/images/I/91OyhfZMbyL._AC_UF1000,1000_QL80_.jpg</imageUrl>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>Speakers</category>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_quantity>92</product_quantity>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <on_sale>true</on_sale>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer_rebate>false</manufacturer_rebate>
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </product>
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <product>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_id>18</product_id>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_name>Ring Video Doorbell Pro 2</product_name>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>249.99</price>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Features a high-definition video camera, two-way audio, and advanced motion detection.</description>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer>Ring</manufacturer>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://images.ctfassets.net/a3peezndovsu/variant-31961428492377/e8d3f08c98ee484eef46c383b85cb785/variant-31961428492377.jpg</imageUrl>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>Smart Doorbells</category>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_quantity>51</product_quantity>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <on_sale>false</on_sale>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer_rebate>false</manufacturer_rebate>
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </product>
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <product>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_id>19</product_id>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_name>Nest Hello</product_name>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>229.00</price>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Smart doorbell with high-definition video, two-way audio, and night vision.</description>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer>Nest</manufacturer>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://cdn.thewirecutter.com/wp-content/uploads/nest-hello.jpg</imageUrl>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>Smart Doorbells</category>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_quantity>23</product_quantity>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <on_sale>false</on_sale>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer_rebate>false</manufacturer_rebate>
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </product>
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <product>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_id>20</product_id>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_name>Arlo Essential Video Doorbell</product_name>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>199.99</price>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Features 1536p HD video, two-way audio, and a built-in siren for enhanced security.</description>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer>Arlo</manufacturer>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://target.scene7.com/is/image/Target/GUEST_2a5cf706-e559-43ec-a731-156371ef0297?wid=488&amp;hei=488&amp;fmt=pjpeg</imageUrl>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>Smart Doorbells</category>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_quantity>0</product_quantity>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <on_sale>true</on_sale>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer_rebate>false</manufacturer_rebate>
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </product>
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <product>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_id>21</product_id>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_name>Eufy Security Video Doorbell</product_name>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>159.99</price>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Offers 2K video resolution, two-way audio, and local storage with no monthly fees.</description>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer>Eufy</manufacturer>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://cdn.shopify.com/s/files/1/0553/4492/2789/files/videodoorbell1500x1500_1_1c401aad-dae7-4495-98a9-d79d82848f65.png?v=1702974002</imageUrl>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>Smart Doorbells</category>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_quantity>56</product_quantity>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <on_sale>true</on_sale>
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer_rebate>false</manufacturer_rebate>
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </product>
+                                                                                                                    
     
     
     
@@ -2359,8 +5239,40 @@
     
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2373,7 +5285,23 @@
         
         
         <product_id>23</product_id>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2386,7 +5314,23 @@
         
         
         <product_name>August Smart Lock Pro</product_name>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2399,7 +5343,23 @@
         
         
         <price>279.99</price>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2412,7 +5372,23 @@
         
         
         <description>Smart lock that retrofits to your existing deadbolt, offering keyless entry, remote access, and voice control with Alexa and Google Assistant.</description>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2425,7 +5401,23 @@
         
         
         <manufacturer>August</manufacturer>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2438,7 +5430,23 @@
         
         
         <imageUrl>https://m.media-amazon.com/images/I/51Lm7sw46GL.jpg</imageUrl>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2451,7 +5459,23 @@
         
         
         <category>Smart Doorlocks</category>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2464,7 +5488,23 @@
         
         
         <product_quantity>44</product_quantity>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2477,7 +5517,23 @@
         
         
         <on_sale>false</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2490,7 +5546,23 @@
         
         
         <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2503,7 +5575,23 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2516,7 +5604,23 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2529,7 +5633,23 @@
         
         
         <product_id>24</product_id>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2542,7 +5662,23 @@
         
         
         <product_name>Schlage Encode</product_name>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2555,7 +5691,23 @@
         
         
         <price>249.00</price>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2568,7 +5720,23 @@
         
         
         <description>Smart lock with built-in Wi-Fi, allowing you to control and monitor access from anywhere without needing additional hubs.</description>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2581,7 +5749,23 @@
         
         
         <manufacturer>Schlage</manufacturer>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2594,7 +5778,23 @@
         
         
         <imageUrl>https://i5.walmartimages.com/seo/Schlage-Encode-Satin-Nickel-Metal-Wifi-Deadbolt_64217137-8133-4f3c-aec6-624dfb8c7edf.0e33b578cc4fcf4c28bba471e70ea6fa.jpeg</imageUrl>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2607,7 +5807,23 @@
         
         
         <category>Smart Doorlocks</category>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2620,7 +5836,23 @@
         
         
         <product_quantity>90</product_quantity>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2633,7 +5865,23 @@
         
         
         <on_sale>false</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2646,7 +5894,23 @@
         
         
         <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2659,7 +5923,23 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2672,7 +5952,23 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2685,7 +5981,23 @@
         
         
         <product_id>25</product_id>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2698,7 +6010,23 @@
         
         
         <product_name>Yale Assure Lock SL</product_name>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2711,7 +6039,23 @@
         
         
         <price>229.00</price>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2724,7 +6068,23 @@
         
         
         <description>Keyless smart lock featuring a touchscreen keypad and compatibility with smart home systems.</description>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2737,7 +6097,23 @@
         
         
         <manufacturer>Yale</manufacturer>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2750,7 +6126,23 @@
         
         
         <imageUrl>https://m.media-amazon.com/images/I/61a4A-f+P3L._AC_UF894,1000_QL80_.jpg</imageUrl>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2763,7 +6155,23 @@
         
         
         <category>Smart Doorlocks</category>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2776,7 +6184,23 @@
         
         
         <product_quantity>100</product_quantity>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2789,7 +6213,23 @@
         
         
         <on_sale>false</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2802,7 +6242,23 @@
         
         
         <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2815,7 +6271,23 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2828,7 +6300,23 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2841,7 +6329,23 @@
         
         
         <product_id>26</product_id>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2854,7 +6358,23 @@
         
         
         <product_name>Kwikset Halo</product_name>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2867,7 +6387,23 @@
         
         
         <price>229.00</price>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2880,7 +6416,23 @@
         
         
         <description>Smart lock with built-in Wi-Fi, offering remote access and keyless entry without requiring a separate hub.</description>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2893,7 +6445,23 @@
         
         
         <manufacturer>Kwikset</manufacturer>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2906,7 +6474,23 @@
         
         
         <imageUrl>https://m.media-amazon.com/images/I/71pPJSarNdL._AC_UF894,1000_QL80_.jpg</imageUrl>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2919,7 +6503,23 @@
         
         
         <category>Smart Doorlocks</category>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2932,7 +6532,23 @@
         
         
         <product_quantity>78</product_quantity>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2945,7 +6561,23 @@
         
         
         <on_sale>false</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2958,7 +6590,23 @@
         
         
         <manufacturer_rebate>false</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2971,7 +6619,23 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -2984,7 +6648,23 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2997,7 +6677,23 @@
         
         
         <product_id>27</product_id>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3010,7 +6706,23 @@
         
         
         <product_name>Level Lock</product_name>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3023,7 +6735,23 @@
         
         
         <price>229.00</price>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3036,7 +6764,23 @@
         
         
         <description>Smart lock that fits onto your existing deadbolt, offering a sleek design and smart features like remote access and voice controls.</description>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3049,7 +6793,23 @@
         
         
         <manufacturer>Level</manufacturer>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3062,7 +6822,23 @@
         
         
         <imageUrl>https://m.media-amazon.com/images/I/71YADWEdviL.jpg</imageUrl>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3075,7 +6851,23 @@
         
         
         <category>Smart Doorlocks</category>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3088,7 +6880,23 @@
         
         
         <product_quantity>85</product_quantity>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3101,7 +6909,23 @@
         
         
         <on_sale>false</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3114,7 +6938,23 @@
         
         
         <manufacturer_rebate>true</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -3127,7 +6967,23 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -3140,7 +6996,23 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3153,7 +7025,23 @@
         
         
         <product_id>29</product_id>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3166,7 +7054,23 @@
         
         
         <product_name>Honeywell Home T5+</product_name>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3179,7 +7083,23 @@
         
         
         <price>149.00</price>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3192,7 +7112,23 @@
         
         
         <description>Smart thermostat with a sleek design, adaptable scheduling, and remote control via smartphone, compatible with Alexa and Google Assistant.</description>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3205,7 +7141,23 @@
         
         
         <manufacturer>Honeywell</manufacturer>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3218,7 +7170,23 @@
         
         
         <imageUrl>https://crdms.images.consumerreports.org/prod/products/cr/models/397262-smart-thermostats-honeywell-lyric-t5-rcht8612wf-10001379.png</imageUrl>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3231,7 +7199,23 @@
         
         
         <category>Climate Control</category>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3244,7 +7228,23 @@
         
         
         <product_quantity>94</product_quantity>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3257,7 +7257,23 @@
         
         
         <on_sale>true</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3270,7 +7286,23 @@
         
         
         <manufacturer_rebate>true</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -3283,7 +7315,23 @@
     
     
     </product>
-                                                    
+                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -3296,7 +7344,23 @@
     
     
     <product>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3309,7 +7373,23 @@
         
         
         <product_id>30</product_id>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3322,7 +7402,23 @@
         
         
         <product_name>Google Nest Learning Thermostat</product_name>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3335,7 +7431,23 @@
         
         
         <price>249.00</price>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3348,7 +7460,23 @@
         
         
         <description>Smart thermostat that learns your preferences and adjusts the temperature automatically, featuring a sleek design and compatibility with smart home systems.</description>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3361,7 +7489,23 @@
         
         
         <manufacturer>Google</manufacturer>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3374,7 +7518,23 @@
         
         
         <imageUrl>https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nest_Learning_Thermostat_4th_gen.width-1000.format-webp.webp</imageUrl>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3387,7 +7547,23 @@
         
         
         <category>Climate Control</category>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3400,7 +7576,23 @@
         
         
         <product_quantity>73</product_quantity>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3413,7 +7605,23 @@
         
         
         <on_sale>true</on_sale>
-                                                                                                        
+                                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -3426,7 +7634,23 @@
         
         
         <manufacturer_rebate>true</manufacturer_rebate>
-                                                                                                    
+                                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -3439,7 +7663,670 @@
     
     
     </product>
-                                                
+                                                                                                                
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <product>
+                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_id>31</product_id>
+                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_name>Google Home Speaker</product_name>
+                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>69.95</price>
+                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Google Home is powered by the Google Assistant. Ask it questions. Tell it to do things. It's your own Google, always ready to help.</description>
+                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer>Google</manufacturer>
+                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://m.media-amazon.com/images/I/71G2OoIp9sL._AC_SX679_.jpg</imageUrl>
+                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>Speakers</category>
+                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_quantity>95</product_quantity>
+                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <on_sale>true</on_sale>
+                                                                                                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer_rebate>false</manufacturer_rebate>
+                                                                                                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </product>
+                                                                                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <product>
+                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_id>32</product_id>
+                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_name>Google Speaker Assistant</product_name>
+                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>49.99</price>
+                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Hands-Free Assistance Anywhere: Enhance your daily routine with the Google Speaker Assistant, offering voice-activated help throughout your home - from weather updates to scheduling, all powered by Google Assistant.</description>
+                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer>Google</manufacturer>
+                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <imageUrl>https://m.media-amazon.com/images/I/6142FNL1XxL._AC_SX679_.jpg</imageUrl>
+                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>Speakers</category>
+                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <product_quantity>0</product_quantity>
+                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <on_sale>false</on_sale>
+                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <manufacturer_rebate>true</manufacturer_rebate>
+                                                                                                                                                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </product>
+                                                                                                    
+
+
+
+
+    
+    
+    
+
+
+    
+    
+    
+
+
+    
+    
+    
+        
+
+    
+    
+    
+    
+            
 
     
     
@@ -3462,7 +8349,7 @@
         
         
         
-        <product_id>31</product_id>
+        <product_id>35</product_id>
                                                                                         
         
         
@@ -3473,7 +8360,7 @@
         
         
         
-        <product_name>Google Home Speaker</product_name>
+        <product_name>Roku Smart Home</product_name>
                                                                                         
         
         
@@ -3484,7 +8371,7 @@
         
         
         
-        <price>69.95</price>
+        <price>99.99</price>
                                                                                         
         
         
@@ -3495,7 +8382,7 @@
         
         
         
-        <description>Google Home is powered by the Google Assistant. Ask it questions. Tell it to do things. It's your own Google, always ready to help.</description>
+        <description>Easily add a doorbell to any home: See who’s stopping by with Roku Wire-Free Video Doorbell &amp; Chime. The battery lasts up to 6 months on one charge, so you never leave your guests hanging, or connect to existing doorbell wiring for limited powers.</description>
                                                                                         
         
         
@@ -3506,7 +8393,7 @@
         
         
         
-        <manufacturer>Google</manufacturer>
+        <manufacturer>Roku</manufacturer>
                                                                                         
         
         
@@ -3517,7 +8404,7 @@
         
         
         
-        <imageUrl>https://m.media-amazon.com/images/I/71G2OoIp9sL._AC_SX679_.jpg</imageUrl>
+        <imageUrl>https://m.media-amazon.com/images/I/71oBVTkzMlL._AC_SX679_.jpg</imageUrl>
                                                                                         
         
         
@@ -3528,7 +8415,7 @@
         
         
         
-        <category>Speakers</category>
+        <category>Smart Doorbells</category>
                                                                                         
         
         
@@ -3539,7 +8426,7 @@
         
         
         
-        <product_quantity>95</product_quantity>
+        <product_quantity>2</product_quantity>
                                                                                         
         
         
@@ -3574,9 +8461,9 @@
     
     </product>
                                         
-    
-    
-    
+
+
+
     
     
     
@@ -3584,149 +8471,88 @@
     
     
     <product>
-                                                                                
+                                                        
         
         
         
         
         
-        
-        
-        
-        <product_id>32</product_id>
-                                                                                
-        
+        <product_id>36</product_id>
+                                                        
         
         
         
         
         
-        
-        
-        <product_name>Google Speaker Assistant</product_name>
-                                                                                
-        
+        <product_name>Google Nest Mini</product_name>
+                                                        
         
         
         
         
         
-        
-        
-        <price>49.99</price>
-                                                                                
-        
+        <price>59.99</price>
+                                                        
         
         
         
         
         
-        
-        
-        <description>Hands-Free Assistance Anywhere: Enhance your daily routine with the Google Speaker Assistant, offering voice-activated help throughout your home - from weather updates to scheduling, all powered by Google Assistant.</description>
-                                                                                
-        
-        
-        
+        <description>Easy to use and will automatically start up in English when connecting to your device for the first time. This speaker works globally with support for most languages and places internationally.</description>
+                                                        
         
         
         
         
         
         <manufacturer>Google</manufacturer>
-                                                                                
+                                                        
         
         
         
         
         
-        
-        
-        
-        <imageUrl>https://m.media-amazon.com/images/I/6142FNL1XxL._AC_SX679_.jpg</imageUrl>
-                                                                                
-        
-        
-        
+        <imageUrl>https://m.media-amazon.com/images/I/614RoGCz8vL._AC_SX679_.jpg</imageUrl>
+                                                        
         
         
         
         
         
         <category>Speakers</category>
-                                                                                
+                                                        
         
         
         
         
         
-        
-        
-        
-        <product_quantity>0</product_quantity>
-                                                                                
-        
-        
-        
+        <product_quantity>5</product_quantity>
+                                                        
         
         
         
         
         
         <on_sale>false</on_sale>
-                                                                                
-        
-        
-        
+                                                        
         
         
         
         
         
         <manufacturer_rebate>true</manufacturer_rebate>
-                                                                            
-    
-    
-    
+                                                    
     
     
     
     
     
     </product>
-                                    
-
+                        
 
 
 
     
-    
-    
 
 
-    
-    <product>
-                
-        <product_id>33</product_id>
-                
-        <product_name>Roku Smart Home</product_name>
-                
-        <price>99.99</price>
-                
-        <description>Easily add a doorbell to any home: See who’s stopping by with Roku Wire-Free Video Doorbell &amp; Chime. The battery lasts up to 6 months on one charge, so you never leave your guests hanging, or connect to existing doorbell wiring for limited powers.</description>
-                
-        <manufacturer>Roku</manufacturer>
-                
-        <imageUrl>https://m.media-amazon.com/images/I/71oBVTkzMlL._AC_SX679_.jpg</imageUrl>
-                
-        <category>Smart Doorbells</category>
-                
-        <product_quantity>0</product_quantity>
-                
-        <on_sale>true</on_sale>
-                
-        <manufacturer_rebate>false</manufacturer_rebate>
-            
-    </product>
-    
 </catalog>
